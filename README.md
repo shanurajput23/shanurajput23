@@ -5,13 +5,15 @@ A passionate full stack developer.
 
 ### 🛠️ Languages and Tools:
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=black" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+</p>
 
 ---
 
@@ -24,3 +26,9 @@ A passionate full stack developer.
 💬 Ask me about **Full Stack development, React.js, Redux, JavaScript, Python**
 
 ⚡ Fun fact: I think I am still learning.
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/shaaanuuwho/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
